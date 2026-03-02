@@ -1,0 +1,125 @@
+[
+  {
+    "question": "Largest planet?",
+    "correct_answer": "Jupiter"
+  },
+  {
+    "question": "Smallest bone?",
+    "correct_answer": "Stapes"
+  },
+  {
+    "question": "Biggest mammal?",
+    "correct_answer": "Blue Whale"
+  },
+  {
+    "question": "First element?",
+    "correct_answer": "Hydrogen"
+  },
+  {
+    "question": "Largest island?",
+    "correct_answer": "Greenland"
+  },
+  {
+    "question": "Highest mountain?",
+    "correct_answer": "Everest",
+    "aliases": [
+      "Mount Everest"
+    ]
+  },
+  {
+    "question": "Longest river?",
+    "correct_answer": "Nile"
+  },
+  {
+    "question": "Fastest animal?",
+    "correct_answer": "Cheetah"
+  },
+  {
+    "question": "Hottest planet?",
+    "correct_answer": "Venus"
+  },
+  {
+    "question": "Densest metal?",
+    "correct_answer": "Osmium"
+  },
+  {
+    "question": "Chemical symbol gold?",
+    "correct_answer": "Au"
+  },
+  {
+    "question": "Famous painter Cubism?",
+    "correct_answer": "Picasso"
+  },
+  {
+    "question": "First US president?",
+    "correct_answer": "Washington"
+  },
+  {
+    "question": "Largest living species whale?",
+    "correct_answer": "Blue"
+  },
+  {
+    "question": "Who wrote 1984?",
+    "correct_answer": "Orwell"
+  },
+  {
+    "question": "Capital of Japan?",
+    "correct_answer": "Tokyo"
+  },
+  {
+    "question": "Smallest country?",
+    "correct_answer": "Vatican"
+  },
+  {
+    "question": "Biggest star?",
+    "correct_answer": "VY Canis"
+  },
+  {
+    "question": "First man space?",
+    "correct_answer": "Gagarin"
+  },
+  {
+    "question": "Largest living species?",
+    "correct_answer": "Blue whale"
+  },
+  {
+    "question": "Dutch artist sunflowers?",
+    "correct_answer": "Van Gogh"
+  },
+  {
+    "question": "Element symbol H?",
+    "correct_answer": "Hydrogen"
+  },
+  {
+    "question": "Capital Mongolia?",
+    "correct_answer": "Ulaanbaatar"
+  },
+  {
+    "question": "French fashion brand?",
+    "correct_answer": "Chanel"
+  },
+  {
+    "question": "Norse god thunder?",
+    "correct_answer": "Thor"
+  },
+  {
+    "question": "Famous painter ears?",
+    "correct_answer": "Van"
+  },
+  {
+    "question": "Small bird?",
+    "correct_answer": "Wren"
+  },
+  {
+    "question": "French artist?",
+    "correct_answer": "Monet"
+  },
+  {
+    "question": "Roman god war?",
+    "correct_answer": "Mars"
+  },
+  {
+    "question": "US state flower?",
+    "correct_answer": "Rose"
+  }
+]
