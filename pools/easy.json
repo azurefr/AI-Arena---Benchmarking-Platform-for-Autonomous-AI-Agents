@@ -1,0 +1,201 @@
+[
+  {
+    "question": "Largest planet",
+    "correct_answer": "Jupiter"
+  },
+  {
+    "question": "Small bird",
+    "correct_answer": "Sparrow"
+  },
+  {
+    "question": "Fruit color",
+    "correct_answer": "Red"
+  },
+  {
+    "question": "US state",
+    "correct_answer": "Texas"
+  },
+  {
+    "question": "Water Chemical symbol",
+    "correct_answer": "H2O"
+  },
+  {
+    "question": "Planet closest",
+    "correct_answer": "Mercury"
+  },
+  {
+    "question": "Big cat",
+    "correct_answer": "Lion"
+  },
+  {
+    "question": "Solid Form of water",
+    "correct_answer": "Ice"
+  },
+  {
+    "question": "Common metal",
+    "correct_answer": "Iron"
+  },
+  {
+    "question": "Lion Animal sound",
+    "correct_answer": "Roar"
+  },
+  {
+    "question": "Grounded Car part",
+    "correct_answer": "Wheel"
+  },
+  {
+    "question": "Round Sport equipment",
+    "correct_answer": "Ball"
+  },
+  {
+    "question": "Body part",
+    "correct_answer": "Nose"
+  },
+  {
+    "question": "Tree type",
+    "correct_answer": "Oak"
+  },
+  {
+    "question": "Music instrument",
+    "correct_answer": "Guitar"
+  },
+  {
+    "question": "Planet nearest sun",
+    "correct_answer": "Mercury"
+  },
+  {
+    "question": "Form of address",
+    "correct_answer": "Sir"
+  },
+  {
+    "question": "Largest planet?",
+    "correct_answer": "Jupiter"
+  },
+  {
+    "question": "Small bird?",
+    "correct_answer": "Sparrow"
+  },
+  {
+    "question": "Fruit color?",
+    "correct_answer": "Red"
+  },
+  {
+    "question": "Fast animal?",
+    "correct_answer": "Cheetah"
+  },
+  {
+    "question": "Big cat?",
+    "correct_answer": "Lion"
+  },
+  {
+    "question": "US state?",
+    "correct_answer": "Texas"
+  },
+  {
+    "question": "Hot drink?",
+    "correct_answer": "Coffee"
+  },
+  {
+    "question": "Planet near Sun?",
+    "correct_answer": "Mercury"
+  },
+  {
+    "question": "Common metal?",
+    "correct_answer": "Iron"
+  },
+  {
+    "question": "Winter month?",
+    "correct_answer": "January"
+  },
+  {
+    "question": "Planet farthest",
+    "correct_answer": "Neptune"
+  },
+  {
+    "question": "Form of art",
+    "correct_answer": "Paint"
+  },
+  {
+    "question": "Type of rock",
+    "correct_answer": "Igneous"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "correct_answer": "Jupiter",
+    "aliases": [],
+    "quality": 1.0
+  },
+  {
+    "question": "Which famous painter created the Starry Night?",
+    "correct_answer": "Vincent van Gogh",
+    "aliases": [
+      "vincent van gogh",
+      "vincent gogh",
+      "van gogh",
+      "gogh"
+    ],
+    "quality": 1.0
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "correct_answer": "Au",
+    "aliases": [],
+    "quality": 1.0
+  },
+  {
+    "question": "In what country was the first Olympic Games held?",
+    "correct_answer": "Greece",
+    "aliases": [],
+    "quality": 1.0
+  },
+  {
+    "question": "Who wrote the book 'To Kill a Mockingbird'?",
+    "correct_answer": "Harper Lee",
+    "aliases": [
+      "harper lee",
+      "lee"
+    ],
+    "quality": 1.0
+  },
+  {
+    "question": "What is the largest mammal on Earth?",
+    "correct_answer": "Blue whale",
+    "aliases": [
+      "blue whale",
+      "whale"
+    ],
+    "quality": 1.0
+  },
+  {
+    "question": "Which musician is often called the 'King of Rock and Roll'?",
+    "correct_answer": "Elvis Presley",
+    "aliases": [
+      "elvis presley",
+      "presley"
+    ],
+    "quality": 1.0
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "correct_answer": "Canberra",
+    "aliases": [],
+    "quality": 1.0
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "correct_answer": "Leonardo da Vinci",
+    "aliases": [
+      "leonardo da vinci",
+      "vinci",
+      "da vinci",
+      "leonardo vinci"
+    ],
+    "quality": 1.0
+  },
+  {
+    "question": "What is the largest state in the United States by area?",
+    "correct_answer": "Alaska",
+    "aliases": [],
+    "quality": 1.0
+  }
+]
